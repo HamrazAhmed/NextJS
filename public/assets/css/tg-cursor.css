@@ -100,11 +100,11 @@
     opacity: .95 !important;
 }
 .cb-cursor.-theme {
-    color: var(--tg-theme-primary);
+    color: #800080;
 }
 .cb-cursor.-theme .cb-cursor-text {
     font-weight: var(--tg-fw-extra-bold);
-    color: var(--tg-common-color-black-2);
+    color: #fff;
 }
 .cb-cursor.-theme::before {
     background: currentColor;
